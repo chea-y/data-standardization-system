@@ -1,0 +1,6 @@
+# pip install fastapi uvicorn 
+# pip install pymysql
+# pip install dotenv
+
+# node.js
+
