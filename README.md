@@ -16,7 +16,7 @@ Frontend (HTML / JavaScript)
 Backend API (FastAPI)
 │
 
-Database (Postgre)
+Database (PostgreSQL)
 
 
 ---
