@@ -25,7 +25,7 @@ Database (PostgreSQL)
 
 - **Backend** : Python, FastAPI  
 - **Frontend** : HTML, JavaScript  
-- **Database** : MariaDB  
+- **Database** : PostgreSQL  
 - **Server** : Uvicorn  
 - **Version Control** : GitHub  
 
@@ -34,5 +34,4 @@ Database (PostgreSQL)
 ## Run
 
 ```bash
-pip install -r requirements.txt
-uvicorn main:app --reload
+116.124.134.37
