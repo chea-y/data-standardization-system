@@ -34,4 +34,4 @@ Database (PostgreSQL)
 ## Run
 
 ```bash
-116.124.134.37
+ssh miso@116.124.134.37
