@@ -34,4 +34,12 @@ Database (PostgreSQL)
 ## Run
 
 ```bash
-ssh miso@116.124.134.37
+ssh miso@116.124.134.37 -p 49922 
+cd 5th_project
+python3 -m uvicorn main:app --host 0.0.0.0 --port 8000 # 백엔드 실행
+--------------------------------------------------------------
+ssh miso@116.124.134.37 -p 49922
+cd 5th_project/frontend
+npm run dev -- --host 0.0.0.0 --port 3000 # 프론트엔드 실행
+--------------------------------------------------------------
+http://116.124.134.37:49300/
